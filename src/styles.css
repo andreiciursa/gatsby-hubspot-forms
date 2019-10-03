@@ -1,0 +1,18 @@
+/* Hackish CSS */
+
+body {
+  font-family: sans-serif !important;
+}
+
+input,
+textarea,
+label,
+pre {
+  display: block !important;
+  margin: 1rem 0 !important;
+}
+
+label input {
+  display: inline-block !important;
+  margin-right: 0.5rem !important;
+}
